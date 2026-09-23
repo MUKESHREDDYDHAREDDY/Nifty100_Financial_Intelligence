@@ -31,3 +31,5 @@ load_data.py
 .DS_Store
 Thumbs.db
 .vscode/
+
+db/nifty100.db
