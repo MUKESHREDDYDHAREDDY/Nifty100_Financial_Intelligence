@@ -1,0 +1,18 @@
+table,rule,severity,message
+profitandloss,DQ-02,CRITICAL,"Duplicate (company_id, year) records found. 13 duplicate groups, 26 affected rows."
+profitandloss,DQ-05,WARNING,OPM does not match calculated Operating Profit Margin
+profitandloss,DQ-06,WARNING,Negative or zero sales values found
+profitandloss,DQ-07,CRITICAL,Invalid year/date format found: 103 rows
+profitandloss,DQ-11,WARNING,Tax percentage outside 0-60% range
+profitandloss,DQ-12,WARNING,Dividend payout above 200% found
+profitandloss,DQ-14,WARNING,EPS sign inconsistent with positive net profit
+profitandloss,DQ-16,WARNING,1 companies have fewer than 5 years of data
+balancesheet,DQ-02,CRITICAL,"Duplicate (company_id, year) records found. 51 duplicate groups, 138 affected rows."
+balancesheet,DQ-07,CRITICAL,Invalid year/date format found: 5 rows
+balancesheet,DQ-16,WARNING,1 companies have fewer than 5 years of data
+cashflow,DQ-02,CRITICAL,"Duplicate (company_id, year) records found. 23 duplicate groups, 46 affected rows."
+cashflow,DQ-09,WARNING,Net cash flow does not match Operating + Investing + Financing activity
+cashflow,DQ-16,WARNING,1 companies have fewer than 5 years of data
+documents,DQ-02,CRITICAL,"Duplicate (company_id, year) records found. 1 duplicate groups, 2 affected rows."
+financial_ratios,DQ-02,CRITICAL,"Duplicate (company_id, year) records found. 83 duplicate groups, 202 affected rows."
+financial_ratios,DQ-16,WARNING,1 companies have fewer than 5 years of data

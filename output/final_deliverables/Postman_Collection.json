@@ -1,0 +1,393 @@
+﻿{
+    "info":  {
+                 "description":  "Postman collection generated from the project\u0027s FastAPI OpenAPI specification.",
+                 "name":  "Nifty100 Financial Intelligence API",
+                 "schema":  "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+             },
+    "item":  [
+                 {
+                     "name":  "GET /api/v1/companies",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/companies",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "companies"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/companies/{ticker}",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/companies/{ticker}",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "companies",
+                                                              "{ticker}"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/companies/{ticker}/profit-loss",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/companies/{ticker}/profit-loss",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "companies",
+                                                              "{ticker}",
+                                                              "profit-loss"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/companies/{ticker}/balance-sheet",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/companies/{ticker}/balance-sheet",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "companies",
+                                                              "{ticker}",
+                                                              "balance-sheet"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/companies/{ticker}/cash-flow",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/companies/{ticker}/cash-flow",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "companies",
+                                                              "{ticker}",
+                                                              "cash-flow"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/companies/{ticker}/ratios",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/companies/{ticker}/ratios",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "companies",
+                                                              "{ticker}",
+                                                              "ratios"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/screener",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/screener",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "screener"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/sectors",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/sectors",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "sectors"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/peers",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/peers",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "peers"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/peers/{ticker}",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/peers/{ticker}",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "peers",
+                                                              "{ticker}"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/valuation",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/valuation",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "valuation"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/valuation/{ticker}",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/valuation/{ticker}",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "valuation",
+                                                              "{ticker}"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/portfolio",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/portfolio",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "portfolio"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/documents",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/documents",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "documents"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/documents/{ticker}",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/documents/{ticker}",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "documents",
+                                                              "{ticker}"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /api/v1/health",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/api/v1/health",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              "api",
+                                                              "v1",
+                                                              "health"
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 },
+                 {
+                     "name":  "GET /",
+                     "request":  {
+                                     "method":  "GET",
+                                     "url":  {
+                                                 "host":  [
+                                                              "127.0.0.1"
+                                                          ],
+                                                 "protocol":  "http",
+                                                 "raw":  "http://127.0.0.1:8000/",
+                                                 "port":  "8000",
+                                                 "path":  [
+                                                              ""
+                                                          ]
+                                             },
+                                     "header":  [
+
+                                                ]
+                                 }
+                 }
+             ]
+}

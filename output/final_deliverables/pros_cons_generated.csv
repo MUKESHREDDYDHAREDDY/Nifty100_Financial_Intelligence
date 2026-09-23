@@ -1,0 +1,484 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+ABB,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+ABB,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+ABB,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+ABB,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+ABB,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+ABB,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+ADANIENSOL,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ADANIENSOL,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ADANIENSOL,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+ADANIENSOL,con,CON-01,Debt-to-equity ratio is above 2 for a non-financial company,91
+ADANIENSOL,con,CON-10,ROCE is below 10%,90
+ADANIENSOL,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+ADANIENT,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ADANIENT,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+ADANIENT,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+ADANIENT,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+ADANIGREEN,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ADANIGREEN,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ADANIGREEN,con,CON-01,Debt-to-equity ratio is above 2 for a non-financial company,91
+ADANIGREEN,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+ADANIPORTS,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ADANIPORTS,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ADANIPORTS,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+ADANIPORTS,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+ADANIPOWER,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+ADANIPOWER,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+ADANIPOWER,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ADANIPOWER,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ADANIPOWER,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+ADANIPOWER,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+AMBUJACEM,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+AMBUJACEM,con,CON-12,Five-year revenue CAGR is below 5%,86
+APOLLOHOSP,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+APOLLOHOSP,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+APOLLOHOSP,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+APOLLOHOSP,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+APOLLOHOSP,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+ASIANPAINT,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+ASIANPAINT,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+ASIANPAINT,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+ASIANPAINT,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+ASIANPAINT,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+ASIANPAINT,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+ASIANPAINT,con,CON-08,Debt-to-equity ratio has increased for three consecutive annual periods,87
+ATGL,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ATGL,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+ATGL,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+ATGL,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+ATGL,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+AXISBANK,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+AXISBANK,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+AXISBANK,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+AXISBANK,con,CON-10,ROCE is below 10%,90
+AXISBANK,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+BAJAJ-AUTO,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+BAJAJ-AUTO,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+BAJAJ-AUTO,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+BAJAJ-AUTO,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+BAJAJ-AUTO,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+BAJAJFINSV,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+BAJAJFINSV,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+BAJAJFINSV,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+BAJAJFINSV,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+BAJAJFINSV,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+BAJAJFINSV,con,CON-02,Free cash flow has been negative for three consecutive annual periods,92
+BAJAJFINSV,con,CON-08,Debt-to-equity ratio has increased for three consecutive annual periods,87
+BAJAJFINSV,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+BAJAJHLDNG,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+BAJAJHLDNG,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+BAJAJHLDNG,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+BAJAJHLDNG,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+BAJAJHLDNG,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+BAJAJHLDNG,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+BAJAJHLDNG,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+BAJFINANCE,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+BAJFINANCE,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+BAJFINANCE,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+BAJFINANCE,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+BAJFINANCE,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+BAJFINANCE,con,CON-02,Free cash flow has been negative for three consecutive annual periods,92
+BAJFINANCE,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+BAJFINANCE,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+BANKBARODA,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+BANKBARODA,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+BANKBARODA,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+BANKBARODA,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+BANKBARODA,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+BANKBARODA,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+BANKBARODA,con,CON-10,ROCE is below 10%,90
+BANKBARODA,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+BEL,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+BEL,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+BEL,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+BHARTIARTL,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+BHARTIARTL,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+BHARTIARTL,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+BHARTIARTL,con,CON-01,Debt-to-equity ratio is above 2 for a non-financial company,91
+BHEL,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+BHEL,con,CON-10,ROCE is below 10%,90
+BHEL,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+BHEL,con,CON-12,Five-year revenue CAGR is below 5%,86
+BOSCHLTD,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+BOSCHLTD,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+BOSCHLTD,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+BOSCHLTD,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+BOSCHLTD,pro,PRO-12,Assets have grown while borrowings declined across recent annual periods,84
+BOSCHLTD,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+BPCL,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+BPCL,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+BPCL,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+BPCL,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+BRITANNIA,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+BRITANNIA,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+BRITANNIA,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+CANBK,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+CANBK,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+CANBK,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+CANBK,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+CANBK,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+CANBK,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+CANBK,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+CANBK,con,CON-10,ROCE is below 10%,90
+CANBK,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+CHOLAFIN,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+CHOLAFIN,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+CHOLAFIN,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+CHOLAFIN,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+CHOLAFIN,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+CHOLAFIN,con,CON-02,Free cash flow has been negative for three consecutive annual periods,92
+CHOLAFIN,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+CHOLAFIN,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+CIPLA,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+CIPLA,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+CIPLA,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+CIPLA,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+CIPLA,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+CIPLA,pro,PRO-12,Assets have grown while borrowings declined across recent annual periods,84
+CIPLA,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+COALINDIA,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+COALINDIA,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+COALINDIA,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+COALINDIA,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+COALINDIA,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+COALINDIA,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+COALINDIA,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+DABUR,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+DABUR,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+DABUR,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+DABUR,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+DABUR,con,CON-08,Debt-to-equity ratio has increased for three consecutive annual periods,87
+DIVISLAB,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+DIVISLAB,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+DIVISLAB,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+DIVISLAB,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+DLF,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+DLF,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+DLF,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+DLF,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+DLF,con,CON-10,ROCE is below 10%,90
+DLF,con,CON-12,Five-year revenue CAGR is below 5%,86
+DMART,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+DMART,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+DMART,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+DMART,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+DMART,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+DRREDDY,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+DRREDDY,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+DRREDDY,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+DRREDDY,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+DRREDDY,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+DRREDDY,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+DRREDDY,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+EICHERMOT,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+EICHERMOT,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+EICHERMOT,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+EICHERMOT,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+EICHERMOT,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+EICHERMOT,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+GAIL,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+GAIL,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+GAIL,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+GODREJCP,con,CON-04,Latest annual net profit is negative,94
+GODREJCP,pro,PRO-FB-01,No predefined positive financial signal was triggered from the available financial data,61
+GRASIM,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+GRASIM,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+GRASIM,con,CON-10,ROCE is below 10%,90
+GRASIM,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+HAL,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+HAL,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+HAL,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+HAL,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+HAL,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+HAL,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+HAL,con,CON-08,Debt-to-equity ratio has increased for three consecutive annual periods,87
+HAVELLS,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+HAVELLS,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+HAVELLS,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+HAVELLS,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+HCLTECH,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+HCLTECH,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+HCLTECH,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+HCLTECH,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+HCLTECH,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+HCLTECH,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+HDFCBANK,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+HDFCBANK,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+HDFCBANK,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+HDFCBANK,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+HDFCBANK,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+HDFCBANK,con,CON-06,Interest coverage ratio is below 1.5,92
+HDFCBANK,con,CON-10,ROCE is below 10%,90
+HDFCBANK,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+HDFCLIFE,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+HDFCLIFE,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+HDFCLIFE,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+HDFCLIFE,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+HDFCLIFE,con,CON-10,ROCE is below 10%,90
+HEROMOTOCO,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+HEROMOTOCO,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+HEROMOTOCO,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+HEROMOTOCO,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+HEROMOTOCO,con,CON-12,Five-year revenue CAGR is below 5%,86
+HINDALCO,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+HINDALCO,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+HINDALCO,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+HINDUNILVR,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+HINDUNILVR,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+HINDUNILVR,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+HINDUNILVR,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+HINDUNILVR,con,CON-08,Debt-to-equity ratio has increased for three consecutive annual periods,87
+ICICIBANK,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ICICIBANK,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ICICIBANK,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+ICICIBANK,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+ICICIBANK,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+ICICIBANK,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+ICICIBANK,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+ICICIBANK,con,CON-06,Interest coverage ratio is below 1.5,92
+ICICIBANK,con,CON-10,ROCE is below 10%,90
+ICICIBANK,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+ICICIGI,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+ICICIGI,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ICICIGI,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+ICICIGI,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+ICICIGI,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+ICICIGI,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+ICICIPRULI,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+ICICIPRULI,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ICICIPRULI,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+ICICIPRULI,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+ICICIPRULI,con,CON-10,ROCE is below 10%,90
+INDIGO,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+INDIGO,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+INDIGO,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+INDIGO,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+INDIGO,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+INDIGO,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+INDIGO,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+INDIGO,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+INDIGO,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+INDUSINDBK,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+INDUSINDBK,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+INDUSINDBK,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+INDUSINDBK,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+INDUSINDBK,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+INDUSINDBK,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+INDUSINDBK,con,CON-10,ROCE is below 10%,90
+INDUSINDBK,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+INFY,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+INFY,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+INFY,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+INFY,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+INFY,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+INFY,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+IOC,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+IOC,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+IOC,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+IOC,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+IRCTC,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+IRCTC,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+IRCTC,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+IRCTC,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+IRCTC,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+IRCTC,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+IRCTC,pro,PRO-12,Assets have grown while borrowings declined across recent annual periods,84
+IRCTC,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+IRFC,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+IRFC,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+IRFC,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+IRFC,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+IRFC,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+IRFC,con,CON-01,Debt-to-equity ratio is above 2 for a non-financial company,91
+IRFC,con,CON-06,Interest coverage ratio is below 1.5,92
+IRFC,con,CON-10,ROCE is below 10%,90
+IRFC,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+ITC,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+ITC,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+ITC,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+ITC,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+ITC,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+ITC,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+JINDALSTEL,con,CON-12,Five-year revenue CAGR is below 5%,86
+JINDALSTEL,pro,PRO-FB-01,No predefined positive financial signal was triggered from the available financial data,61
+JIOFIN,pro,PRO-03,The latest annual debt-to-equity ratio is zero,88
+JIOFIN,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+JIOFIN,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+JIOFIN,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+JIOFIN,con,CON-10,ROCE is below 10%,90
+JSWENERGY,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+JSWENERGY,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+JSWENERGY,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+JSWENERGY,con,CON-10,ROCE is below 10%,90
+JSWENERGY,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+JSWENERGY,con,CON-12,Five-year revenue CAGR is below 5%,86
+JSWSTEEL,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+JSWSTEEL,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+JSWSTEEL,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+KOTAKBANK,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+KOTAKBANK,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+KOTAKBANK,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+KOTAKBANK,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+KOTAKBANK,con,CON-06,Interest coverage ratio is below 1.5,92
+KOTAKBANK,con,CON-10,ROCE is below 10%,90
+KOTAKBANK,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+LICI,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+LICI,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+LICI,pro,PRO-03,The latest annual debt-to-equity ratio is zero,88
+LICI,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+LICI,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+LICI,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+LICI,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+LODHA,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+LODHA,con,CON-12,Five-year revenue CAGR is below 5%,86
+LT,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+LT,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+LT,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+LTIM,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+LTIM,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+LTIM,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+LTIM,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+LTIM,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+LTIM,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+LTIM,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+LTIM,con,CON-03,Operating profit margin has declined for three consecutive annual periods,88
+M&M,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+M&M,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+MARUTI,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+MARUTI,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+MARUTI,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+MOTHERSON,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+MOTHERSON,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+MOTHERSON,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+MOTHERSON,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+NAUKRI,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+NAUKRI,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+NAUKRI,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+NAUKRI,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+NAUKRI,con,CON-10,ROCE is below 10%,90
+NESTLEIND,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+NESTLEIND,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+NESTLEIND,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+NESTLEIND,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+NESTLEIND,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+NESTLEIND,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+NHPC,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+NHPC,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+NHPC,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+NHPC,con,CON-08,Debt-to-equity ratio has increased for three consecutive annual periods,87
+NHPC,con,CON-10,ROCE is below 10%,90
+NHPC,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+NHPC,con,CON-12,Five-year revenue CAGR is below 5%,86
+NTPC,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+NTPC,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+NTPC,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+ONGC,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+ONGC,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+ONGC,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+PFC,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+PFC,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+PFC,con,CON-06,Interest coverage ratio is below 1.5,92
+PFC,con,CON-10,ROCE is below 10%,90
+PFC,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+PIDILITIND,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+PIDILITIND,pro,PRO-12,Assets have grown while borrowings declined across recent annual periods,84
+PIDILITIND,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+PNB,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+PNB,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+PNB,con,CON-06,Interest coverage ratio is below 1.5,92
+PNB,con,CON-10,ROCE is below 10%,90
+POWERGRID,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+POWERGRID,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+POWERGRID,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+POWERGRID,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+RECLTD,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+RECLTD,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+RECLTD,con,CON-01,Debt-to-equity ratio is above 2 for a non-financial company,91
+RECLTD,con,CON-02,Free cash flow has been negative for three consecutive annual periods,92
+RECLTD,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+RELIANCE,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+RELIANCE,con,CON-10,ROCE is below 10%,90
+SBILIFE,pro,PRO-03,The latest annual debt-to-equity ratio is zero,88
+SBILIFE,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+SBILIFE,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+SBILIFE,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+SBILIFE,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+SBIN,pro,PRO-03,The latest annual debt-to-equity ratio is zero,88
+SBIN,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+SBIN,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+SBIN,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+SBIN,con,CON-06,Interest coverage ratio is below 1.5,92
+SBIN,con,CON-10,ROCE is below 10%,90
+SHREECEM,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+SHREECEM,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+SHREECEM,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+SHRIRAMFIN,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+SHRIRAMFIN,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+SHRIRAMFIN,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+SHRIRAMFIN,con,CON-02,Free cash flow has been negative for three consecutive annual periods,92
+SHRIRAMFIN,con,CON-06,Interest coverage ratio is below 1.5,92
+SHRIRAMFIN,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+SIEMENS,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+SIEMENS,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+SIEMENS,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+SIEMENS,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+SIEMENS,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+SUNPHARMA,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+SUNPHARMA,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+SUNPHARMA,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+SUNPHARMA,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+SUNPHARMA,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+SUNPHARMA,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+TATACONSUM,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+TATACONSUM,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+TATACONSUM,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+TATACONSUM,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+TATACONSUM,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+TATAMOTORS,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+TATAMOTORS,pro,PRO-12,Assets have grown while borrowings declined across recent annual periods,84
+TATAMOTORS,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+TATAPOWER,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+TATAPOWER,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+TATAPOWER,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+TATASTEEL,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+TATASTEEL,con,CON-04,Latest annual net profit is negative,94
+TATASTEEL,con,CON-05,Revenue has declined for two consecutive annual periods,88
+TATASTEEL,con,CON-10,ROCE is below 10%,90
+TATASTEEL,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+TCS,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+TCS,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+TCS,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+TCS,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+TCS,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+TCS,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+TCS,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+TECHM,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+TECHM,pro,PRO-07,Strong interest coverage or debt-free balance sheet,87
+TECHM,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+TECHM,con,CON-07,Dividend payout ratio is above 100%,89
+TITAN,pro,PRO-01,ROE has remained above 20% for at least three consecutive years,90
+TITAN,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+TITAN,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+TITAN,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+TITAN,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+TITAN,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+TITAN,pro,PRO-11,"Revenue CAGR is higher than PAT CAGR, indicating stronger revenue growth relative to profit growth",76
+TITAN,con,CON-08,Debt-to-equity ratio has increased for three consecutive annual periods,87
+TITAN,con,CON-11,Borrowings-to-EBITDA proxy is above 3; direct net debt cannot be calculated from the available database fields,82
+TORNTPHARM,pro,PRO-02,Free cash flow has remained positive for at least five consecutive years,92
+TORNTPHARM,pro,PRO-05,Latest annual operating profit margin is above 25%,85
+TORNTPHARM,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+TORNTPHARM,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+TORNTPHARM,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+TRENT,pro,PRO-04,Five-year revenue CAGR is above 15%,88
+TRENT,pro,PRO-06,Five-year PAT CAGR is above 20%,88
+TRENT,pro,PRO-08,Dividend yield is above 2% with positive free cash flow,84
+TRENT,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+TRENT,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+TRENT,con,CON-FB-01,No predefined negative financial signal was triggered from the available financial data,61
+TVSMOTOR,pro,PRO-09,Five-year EPS CAGR is above 15%,86
+TVSMOTOR,pro,PRO-10,ROE has improved for three consecutive annual periods,82
+TVSMOTOR,con,CON-01,Debt-to-equity ratio is above 2 for a non-financial company,91
+TVSMOTOR,con,CON-02,Free cash flow has been negative for three consecutive annual periods,92

@@ -1,0 +1,86 @@
+======================================================================
+SPRINT 2 - EPIC 02 FINANCIAL RATIO ENGINE REVIEW
+======================================================================
+
+1. FINANCIAL RATIO ROW COUNT
+----------------------------------------------------------------------
+Rows: 1188
+Requirement >= 1100: PASS
+
+2. REQUIRED KPI COLUMNS
+----------------------------------------------------------------------
+All required KPI columns exist.
+No KPI column is completely NULL.
+
+3. FINANCIALS CARVE-OUT
+----------------------------------------------------------------------
+Financials companies: 20
+Expected 20: PASS
+Sector column: broad_sector
+Suppressed Financials high-D/E warnings: 0
+Non-Financial high-D/E warnings: 41
+Financials D/E suppression: PASS
+
+4. SPRINT 2 SCREENER
+----------------------------------------------------------------------
+Filter: ROE > 15% AND D/E < 1
+Basis: latest annual record per company
+Result count: 38
+Expected range 15-50: PASS
+
+Screener results:
+BEL             Mar 2024     ROE=4744.05% D/E=0.51
+HAL             Mar 2024     ROE=3816.58% D/E=0.62
+INDIGO          Mar 2024     ROE=892.57% D/E=0.02
+NESTLEIND       Mar 2024     ROE=117.75% D/E=0.10
+LT              Mar 2024     ROE=77.67% D/E=0.10
+BRITANNIA       Mar 2024     ROE=54.15% D/E=0.52
+TCS             Mar 2024     ROE=50.94% D/E=0.09
+LICI            Mar 2024     ROE=49.45% D/E=0.00
+ADANIPOWER      Mar 2024     ROE=48.28% D/E=0.80
+COALINDIA       Mar 2024     ROE=45.17% D/E=0.08
+TRENT           Mar 2024     ROE=36.31% D/E=0.43
+BPCL            Mar 2024     ROE=35.51% D/E=0.72
+IRCTC           Mar 2024     ROE=34.40% D/E=0.02
+ABB             Mar 2024     ROE=32.47% D/E=0.02
+INFY            Mar 2024     ROE=29.79% D/E=0.09
+ASIANPAINT      Mar 2024     ROE=29.68% D/E=0.13
+ITC             Mar 2024     ROE=27.85% D/E=0.00
+BAJAJ-AUTO      Mar 2024     ROE=26.61% D/E=0.07
+TORNTPHARM      Mar 2024     ROE=24.15% D/E=0.59
+IOC             Mar 2024     ROE=23.53% D/E=0.72
+HCLTECH         Mar 2024     ROE=23.01% D/E=0.08
+LTIM            Mar 2024     ROE=22.90% D/E=0.10
+EICHERMOT       Mar 2024     ROE=22.17% D/E=0.02
+HEROMOTOCO      Mar 2024     ROE=21.14% D/E=0.03
+PIDILITIND      Mar 2024     ROE=20.78% D/E=0.05
+BOSCHLTD        Mar 2024     ROE=20.64% D/E=0.00
+HINDUNILVR      Mar 2024     ROE=20.07% D/E=0.03
+DRREDDY         Mar 2024     ROE=19.74% D/E=0.07
+ATGL            Mar 2024     ROE=18.66% D/E=0.43
+DABUR           Mar 2024     ROE=18.36% D/E=0.14
+SIEMENS         Sep 2024     ROE=17.70% D/E=0.02
+HAVELLS         Mar 2024     ROE=17.07% D/E=0.04
+ONGC            Mar 2024     ROE=16.94% D/E=0.45
+MARUTI          Mar 2024     ROE=15.75% D/E=0.00
+ICICIGI         Mar 2024     ROE=15.72% D/E=0.00
+CIPLA           Mar 2024     ROE=15.55% D/E=0.02
+ADANIPORTS      Mar 2024     ROE=15.35% D/E=0.94
+SUNPHARMA       Mar 2024     ROE=15.09% D/E=0.05
+
+5. REQUIRED OUTPUT FILES
+----------------------------------------------------------------------
+capital_allocation.csv: PASS
+ratio_edge_cases.log: PASS
+
+6. KPI TEST VALIDATION
+----------------------------------------------------------------------
+KPI test functions found: 49
+Required >= 20: PASS
+Pytest collected tests: 84
+Pytest collection: PASS
+
+7. FINAL STATUS
+----------------------------------------------------------------------
+SPRINT 2 STATUS: PASS
+======================================================================

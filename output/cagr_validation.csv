@@ -1,0 +1,11 @@
+company_id,metric_type,parsed_value_pct,ratio_engine_value_pct,divergence_pct,status
+SBILIFE,compounded_sales_growth,24.0,24.2316,0.23,PASS
+SBILIFE,compounded_profit_growth,6.0,7.3747,1.37,PASS
+TCS,compounded_sales_growth,10.0,10.4636,0.46,PASS
+TCS,compounded_profit_growth,8.0,7.8712,0.13,PASS
+WIPRO,compounded_sales_growth,9.0,,,NO_RATIO_ENGINE_DATA
+WIPRO,compounded_profit_growth,4.0,,,NO_RATIO_ENGINE_DATA
+HDFCBANK,compounded_sales_growth,22.0,21.951,0.05,PASS
+HDFCBANK,compounded_profit_growth,23.0,23.8651,0.87,PASS
+INFY,compounded_sales_growth,13.0,13.1991,0.2,PASS
+INFY,compounded_profit_growth,11.0,11.2394,0.24,PASS

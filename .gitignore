@@ -3,3 +3,31 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.log
+
+# Python / test artifacts
+htmlcov/
+.coverage
+
+# Local backups
+*_backup*.db
+*_backup*.xlsx
+
+# Generated ZIP archives
+*.zip
+
+# Temporary acceptance-check scripts
+check_*.py
+final_check.py
+fix_ac19.py
+inspect_*.py
+run_valuation.py
+load_data.py
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/

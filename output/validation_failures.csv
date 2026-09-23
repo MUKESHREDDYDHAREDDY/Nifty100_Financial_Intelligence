@@ -1,0 +1,2 @@
+company_id,field,issue,severity
+N/A,financial_ratios,DQ-16: 1 companies have fewer than 5 years of data,WARNING

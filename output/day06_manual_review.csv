@@ -1,0 +1,9 @@
+company_id,profitandloss_years,balancesheet_years,cashflow_years,financial_ratios_years,market_cap_years,finding
+SUNPHARMA,13,13,12,12,6,5-company random manual review
+TITAN,13,13,12,12,6,5-company random manual review
+CIPLA,13,13,12,12,6,5-company random manual review
+TECHM,13,13,12,12,6,5-company random manual review
+LODHA,13,13,9,9,6,5-company random manual review
+ATGL,8,8,0,0,6,Source data missing for Cash Flow and Financial Ratios; no loader bug found
+JIOFIN,3,3,2,2,6,Limited historical financial data in source files; no loader bug found
+SBIN,13,0,12,0,6,Source data missing for Balance Sheet and Financial Ratios; no loader bug found
